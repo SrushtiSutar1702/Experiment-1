@@ -6,3 +6,4 @@ print("This is addition")
 mul=num1*num2
 print("Multiplication Is:",mul)
 print("Here is the multiplication")
+print("Code is Updated")
